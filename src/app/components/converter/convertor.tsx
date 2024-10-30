@@ -2,7 +2,7 @@
 
 import React, { useState } from 'react';
 import { Box, Button, Grid } from '@mui/material';
-import styles from './Converter.module.css';
+import styles from './converter.module.css';
 import Image from 'next/image';
 import ToolCards from '../tool-card/tool-card';
 
